@@ -1,0 +1,25 @@
+@charset "UTF-8";
+body
+{
+	background: #fafafa !important;
+	overflow: auto;
+}
+
+.card-img-top
+{
+	border-radius:40px ;
+	padding: 20px;
+}
+.card{
+	box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+	border-radius: 20px;
+	
+}
+.bg-image
+{
+	background: linear-gradient(45deg, rgb(214, 148, 28),
+		rgb(44, 62, 209)),url("../images/menubg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}

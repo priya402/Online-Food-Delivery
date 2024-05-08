@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body
+{
+	background: #fafafa !important;
+}
+.card
+{
+	border:1px solid black;
+	 box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+}
+.card-img-top
+{
+	border-radius:40px ;
+	padding: 20px; 
+}
+
+.text
+{
+	font-style: italic;
+	font-family: cursive;
+	color: threeddarkshadow white;
+	background: transparent;
+	
+}
+.bg-image
+{
+	background: linear-gradient(45deg, rgba(245, 90, 66, 0.75),
+		rgba(190, 93, 156, 0.75));
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
